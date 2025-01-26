@@ -1,0 +1,24 @@
+
+h1 {color:red;
+    background: yellow
+   
+}
+
+h2{color:orange;}
+
+body{ background-image:url('sam.jpg');
+background-position :center;
+background-size : cover;
+height:100vh;
+
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+p{color: yellow;
+    font-size:20px;
+}
+button{color: green;
+    background: white}
+    ul li a{font-size:30px;color: yellowgreen;}
+   ul li a:hover{color: red ; } 
+
+
